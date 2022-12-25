@@ -6,7 +6,7 @@
 
 .btn:hover {
   cursor: pointer;
-  background-color: rgb(6, 105, 31);
+  background-color: rgb(170, 45, 45);
 }
 .btn {
   flex: auto;
